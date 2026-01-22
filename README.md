@@ -1,6 +1,7 @@
 # Econews
 Game design and development for climate change news reading and annotation
-Dorina Rajanen
+
+By Dorina Rajanen
 
 The game design and development is part of a research project at University of Oulu. The project was initiated 
 by Dorina Rajanen (principal investigator) starting in November 2o25. Current team members are 
