@@ -3,8 +3,8 @@ Game design and development for climate change news reading and annotation
 
 By Dorina Rajanen
 
-The game design and development is part of a research project at University of Oulu. The project was initiated 
-by Dorina Rajanen (principal investigator) starting in November 2o25. Current team members are 
+The Econews game design and development is part of a research project at University of Oulu. The project was initiated 
+by Dorina Rajanen (principal investigator) starting in November 2025. Current team members are 
 Riikka Tumelius (co-PI) and Mikko Rajanen.
 
 The project designs and pilots a serious game to study human-AI collaboration in interpreting climate news. 
@@ -45,3 +45,20 @@ ture review and an integrative model. INTERACT No 5, November 2021. University o
 activism. Workshop at the 10th Int’l Conf. on Ubiquitous Computing (UbiComp 2008), 2008, Seoul, South Korea. ACM.
 5. Reeve, J., & Tseng, C. M. (2011). Agency as a fourth aspect of students’ engagement during learning activities. Contem-
 porary Educational Psychology, 36(4), 257-267.
+
+
+## Current development status
+
+### Version 1
+In Spring 2026, a first version of the game prototype was developed by a student team as part of their R&D project course at University of Oulu.
+The contributors include: Aleksi Kantola, Md Shafiul Alam, Jooa Tammi, Sampsa Jalli, Karoliina Autio, and Shadman Riffat.
+The developement used Unity as the programming environment and Figma as the design environment.
+A WebGL demo of the game is here: https://notsuho.github.io/ecoland-builds-test-repo/
+
+In this current version, Econews is a minigame component in a larger game Ecoland, designed by Anjalee Wanigarathne in her master's thesis.
+Ecoland is a game concept desgined to educate and engage people in climate change action. 
+
+We integrated Econews as part of a broader game storyline on purpose to reach more players and make their overall game experience more varied and enjoyable.
+
+
+
