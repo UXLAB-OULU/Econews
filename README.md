@@ -56,7 +56,11 @@ The developement used Unity as the programming environment and Figma as the desi
 A WebGL demo of the game is here: https://notsuho.github.io/ecoland-builds-test-repo/
 
 In this current version, Econews is a minigame component in a larger game Ecoland, designed by Anjalee Wanigarathne in her master's thesis.
-Ecoland is a game concept desgined to educate and engage people in climate change action. 
+Ecoland is a game concept desgined to educate and engage people in climate change action.
+Reference for Ecoland:
+- Wanigarathne, A. (2025). Designing a serious game for climate change engagement and sustainable behaviour: a user-centred approach. Master's thesis. University of Oulu. [pdf](https://oulurepo.oulu.fi/handle/10024/61162)
+- Wanigarathne, A., & Rajanen, D. (2025, October). Serious Games for Climate Change Engagement: A User-Centered Design Approach. In International Conference on Computer-Human Interaction Research and Applications (pp. 210-230). Cham: Springer Nature Switzerland. [pdf](https://link.springer.com/chapter/10.1007/978-3-032-16454-4_12)
+
 
 We integrated Econews as part of a broader game storyline on purpose to reach more players and make their overall game experience more varied and enjoyable.
 
