@@ -51,8 +51,7 @@ porary Educational Psychology, 36(4), 257-267.
 
 ### Version 1
 In Spring 2026, a first version of the game prototype was developed by a student team as part of their R&D project course at University of Oulu.
-The contributors include: Aleksi Kantola, Md Shafiul Alam, Jooa Tammi, Sampsa Jalli, Karoliina Autio, and Shadman Riffat.
-The developement used Unity as the programming environment and Figma as the design environment.
+The contributors include: Aleksi Kantola, Md Shafiul Alam, Jooa Tammi, Sampsa Jalli, Karoliina Autio, and Shadman Riffat. (See their original project repo [here](https://github.com/notsuho/Ecoland) and a forked repo with possible updates [here](https://github.com/UXLAB-OULU/Ecoland_v1)). The developement used Unity as the programming environment and Figma as the design environment.
 A WebGL demo of the game is here: https://notsuho.github.io/ecoland-builds-test-repo/
 
 In this current version, Econews is a minigame component in a larger game Ecoland, designed by Anjalee Wanigarathne in her master's thesis.
